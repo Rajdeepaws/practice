@@ -1,0 +1,6 @@
+Git add
+git commit -m 'msg'
+git clone <= Overall repo clone hoto
+git push <= Local to central
+git fetch <= saglya branches che changes gheun yeto
+git pull <= perticular branch cha data local vr anto
